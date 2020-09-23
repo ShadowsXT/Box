@@ -1,0 +1,29 @@
+html,body,p,div,ul,ol {
+    padding: 0px;
+    margin: 0;
+}
+.form {
+    padding: 10px;
+    font-size: 18px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.body {
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    margin: 10% auto;
+    border-radius: 5px;
+    font-family: courier;
+}
+.submit {
+    padding: 1px 110px;
+    margin-top: 20px;
+}
+.box {
+    padding: 4px;
+}
+h1 {
+    text-align: center;
+}
